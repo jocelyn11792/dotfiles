@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jocelyn11792@gmail.com
+	name = Jocelyn Romero
